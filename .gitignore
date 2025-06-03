@@ -1,0 +1,4 @@
+.env 
+reminders.db
+node_modules
+.vscode
